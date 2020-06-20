@@ -4,4 +4,4 @@ Due to some limitation on my project, I had to load GIFs into ImageViews wihtout
 So, I've searched a lot and it ends up with this implementation to load GIFs natively.
 
 # Note : 
-I also used the old way for calling the network with <pre><code>URLConnection</code></pre> instead of any network library, due to same purpose/limitations. 
+I also used the old way for calling the network with <code>URLConnection</code> instead of any network library, due to same purpose/limitations. 
