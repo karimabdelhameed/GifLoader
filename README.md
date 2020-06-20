@@ -1,7 +1,7 @@
 # GifLoader
 The main purpose of this repo is loading and controlling Gif images in android natively. 
 
-<img src="https://giphy.com/gifs/l0LDyUQ4oMG6DDvWjI" width="250"/>
+<img src="https://media.giphy.com/media/l0LDyUQ4oMG6DDvWjI/giphy.gif" width="250"/>
 
 
 # Description : 
